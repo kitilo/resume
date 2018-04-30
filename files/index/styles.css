@@ -1390,13 +1390,22 @@
   width:1px;
   height:1px;
 }
-#u49_img {
+#u49_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:320px;
   height:730px;
+  background:inherit;
+  background-color:rgba(0, 0, 0, 0.298039215686275);
+  border:none;
+  border-radius:10px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
 #u49 {
   border-width:0px;
@@ -5144,13 +5153,20 @@
   width:1px;
   height:1px;
 }
-#u160_img {
+#u160_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:360px;
   height:780px;
+  background:inherit;
+  background-color:rgba(0, 0, 0, 0.298039215686275);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
 #u160 {
   border-width:0px;
